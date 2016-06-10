@@ -19,7 +19,7 @@
     "hammerjs": "^2.0.4"
   },
   "peerDependencies": {
-    "jquery": "1.x || 2.x"
+    "jquery": "1.x || 2.x || 3.x"
   },
   "browser": {
     "./3rd-party-loaders/hammerjs.js": "./3rd-party-loaders/hammerjs.browser.js",
